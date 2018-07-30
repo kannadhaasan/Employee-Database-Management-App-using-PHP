@@ -1,0 +1,12 @@
+select {
+	display: block !important;
+}
+
+
+.errorTxt{}
+
+
+.error{
+
+	color: red !important;
+}
